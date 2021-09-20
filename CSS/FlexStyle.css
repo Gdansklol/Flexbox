@@ -1,0 +1,9 @@
+ .container{
+     border:1px solid #333;
+     height: 300px;
+     width: 30%; /*flr att bli relativ skärm*/
+ }
+
+ section{
+     border: 1px solid #333;
+ }
