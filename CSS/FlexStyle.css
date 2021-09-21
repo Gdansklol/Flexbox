@@ -6,4 +6,23 @@
 
  section{
      border: 1px solid #333;
+     height: 50px;
+     width: 50px;
  }
+
+ .flex-container{
+    display:flex;
+    flex-direction: row;/*row(default)|row-reverse|colum*/
+    flex-wrap: nowrap;/*nowrap(default)|wrap|warp-reverse*/
+    /*short-hand*/
+    flex-flow: wor nowrap;/*<flex-direction> <flex-wrap*/
+    
+    /*Positioning individual items along the main-axis*/
+    justify-content:space-between ;/*flex-start|flex-end|spce-between*/
+
+}
+
+
+
+
+ 
