@@ -1,0 +1,22 @@
+
+
+#main{
+    width: 90%;
+    max-width: 1240px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    grid-gap:20px;
+}
+
+@media screen and (max-width:500px){
+
+}
+
+@media screen and (min-width:850px){
+
+
+}
+
+ /* bilder */
